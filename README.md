@@ -9,6 +9,8 @@
 - Database Management
 - Exceptional Handling
 - Object Oriented Programming
+- Fine for not returning asset before due date.
+- Invoice PDF
 
 ####	This application works on two levels of users, each category has different levels of rights to update the data & maintenance of masters like below.
 
